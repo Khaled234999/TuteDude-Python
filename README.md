@@ -1,2 +1,2 @@
 # TuteDude-Python
-Assignments of TuteDude Python Tutorials
+Assignments of TuteDude Python Tutorials done by Khaled Tajmohammed
